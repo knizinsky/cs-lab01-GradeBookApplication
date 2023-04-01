@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject />
+	  <TargetFramework>net6.0</TargetFramework>
+	  <StartupObject>GradeBook.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
